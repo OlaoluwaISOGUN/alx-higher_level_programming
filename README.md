@@ -21,7 +21,3 @@ At ALX Holberton School, we learn by doing. We have projects everyday that we ha
 | --- | --- |
 | [0x00. Python - Hello, World](https://github.com/TosinISOGUN/alx-higher_level_programming/tree/main/0x00-python-hello_world) | 	Introduction to Python programming. |
 | [0x01-python-if_else_loops_functions](https://github.com/TosinISOGUN/alx-higher_level_programming/tree/main/0x01-python-if_else_loops_functions) | Introduction to Python if/else statements, loops and functions. |
-
-## Credits & Authors
-- [Oluwatomisin Isogun](https://github.com/TosinISOGUN)
-> Other collaborators are acknowledged within each project.
