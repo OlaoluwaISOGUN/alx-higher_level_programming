@@ -35,4 +35,5 @@
   - Pycodestyle (version 2.8.*)
 
 ## Credits & Authors
-- [Oluwatomisin ISOGUN](https://github.com/TosinISOGUN)
+- [Olaoluwa ISOGUN](https://github.com/OlaoluwaISOGUN)
+
