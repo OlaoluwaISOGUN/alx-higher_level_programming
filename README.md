@@ -26,5 +26,5 @@ At ALX Holberton School, we learn by doing. We have projects everyday that we ha
 | [0x04-python-more_data_structures](https://github.com/TosinISOGUN/alx-higher_level_programming/tree/main/0x04-python-more_data_structures) | Advanced data structures in Python. |
 
 ## Credits & Authors
-- [Oluwatomisin Isogun](https://github.com/TosinISOGUN)
+- [Olaoluwa ISOGUN](https://github.com/OlaoluwaISOGUN)
 > Other collaborators are acknowledged within each project.
