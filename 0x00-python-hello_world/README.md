@@ -52,6 +52,6 @@
    - **Betty style**, using `betty-style.pl` and `betty-doc.pl`
  - No more than 5 functions per file.
  
-## Credits
-- [Oluwatomisin Isogun](https://github.com/TosinISOGUN)
+## Credits & Authors
+- [Olaoluwa ISOGUN](https://github.com/OlaoluwaISOGUN)
 > Other collaborators are acknowledged within the repository.
