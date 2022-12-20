@@ -16,5 +16,4 @@
 - The length of files will be tested using `wc`.
 
 ## Authors & Credits
-- Oluwatomisin Isogun
-
+- Olaoluwa Isogun
