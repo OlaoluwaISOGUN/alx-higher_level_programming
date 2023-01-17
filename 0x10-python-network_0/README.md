@@ -19,4 +19,4 @@
 - All codes should use the pycodestyle (version 2.8.*)
 
 ## Authors
-- Oluwatomisin Isogun
+- Olaoluwa Isogun
